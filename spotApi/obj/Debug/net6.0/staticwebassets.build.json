@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EVqZyRnxcAHV0bcQPu2aro2cW4OGyC2YgIEiMzvUvPU=",
+  "Source": "spotApi",
+  "BasePath": "_content/spotApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
